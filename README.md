@@ -1,5 +1,6 @@
 # Node workshop
 
+
 > Create a server + REST API for your next web application!
  
 In this workshop, we’ll discuss concepts and put them to practice with activities, all about web servers.
