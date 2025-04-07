@@ -14,6 +14,7 @@ Topics include, but not limited to:
 - User authentication with sessions, cookies and tokens
 - Using external APIs, such as Github Jobs, Giphy, Spotify
 
+
 ## Previous Events
 
 - [Node Workshop - August 27 2020](https://www.facebook.com/events/1125391177830448/)
